@@ -210,3 +210,22 @@ p {
 	text-align: center;
 	margin-bottom: 40px;
 }
+
+.aside {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.aside__list {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.aside img {
+	width: 102px;
+	height: 75px;
+	object-fit: contain;
+}
